@@ -1,0 +1,15 @@
+C:\Users\jwall\Desktop\MIS_Code\Lab_4\mis-221-lab-4-jwallbridges\bin\Debug\net7.0\Lab_4.exe
+C:\Users\jwall\Desktop\MIS_Code\Lab_4\mis-221-lab-4-jwallbridges\bin\Debug\net7.0\Lab_4.deps.json
+C:\Users\jwall\Desktop\MIS_Code\Lab_4\mis-221-lab-4-jwallbridges\bin\Debug\net7.0\Lab_4.runtimeconfig.json
+C:\Users\jwall\Desktop\MIS_Code\Lab_4\mis-221-lab-4-jwallbridges\bin\Debug\net7.0\Lab_4.dll
+C:\Users\jwall\Desktop\MIS_Code\Lab_4\mis-221-lab-4-jwallbridges\bin\Debug\net7.0\Lab_4.pdb
+C:\Users\jwall\Desktop\MIS_Code\Lab_4\mis-221-lab-4-jwallbridges\obj\Debug\net7.0\Lab_4.csproj.AssemblyReference.cache
+C:\Users\jwall\Desktop\MIS_Code\Lab_4\mis-221-lab-4-jwallbridges\obj\Debug\net7.0\Lab_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jwall\Desktop\MIS_Code\Lab_4\mis-221-lab-4-jwallbridges\obj\Debug\net7.0\Lab_4.AssemblyInfoInputs.cache
+C:\Users\jwall\Desktop\MIS_Code\Lab_4\mis-221-lab-4-jwallbridges\obj\Debug\net7.0\Lab_4.AssemblyInfo.cs
+C:\Users\jwall\Desktop\MIS_Code\Lab_4\mis-221-lab-4-jwallbridges\obj\Debug\net7.0\Lab_4.csproj.CoreCompileInputs.cache
+C:\Users\jwall\Desktop\MIS_Code\Lab_4\mis-221-lab-4-jwallbridges\obj\Debug\net7.0\Lab_4.dll
+C:\Users\jwall\Desktop\MIS_Code\Lab_4\mis-221-lab-4-jwallbridges\obj\Debug\net7.0\refint\Lab_4.dll
+C:\Users\jwall\Desktop\MIS_Code\Lab_4\mis-221-lab-4-jwallbridges\obj\Debug\net7.0\Lab_4.pdb
+C:\Users\jwall\Desktop\MIS_Code\Lab_4\mis-221-lab-4-jwallbridges\obj\Debug\net7.0\Lab_4.genruntimeconfig.cache
+C:\Users\jwall\Desktop\MIS_Code\Lab_4\mis-221-lab-4-jwallbridges\obj\Debug\net7.0\ref\Lab_4.dll
